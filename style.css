@@ -9,7 +9,7 @@ body{
 
 .headline{
 	font-size:60px;
-	color:#25C27B;
+	color:#00D0D4;
 	font-weight:bold;
 	text-align:center;
 	padding:20px;
@@ -19,4 +19,11 @@ body{
 	height:auto;
 	text-align:center;
 	margin: 10px auto;
+}
+.contactInfo{
+	color:#00D0D4;
+	font-size:32px;
+	font-weight:lighter;
+	margin:10px 0;
+	text-align:center;
 }
