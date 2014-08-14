@@ -1,0 +1,22 @@
+/* stylesheet created by Nicki Haylon */
+/* www.nickihaylon.com */
+
+body{
+	margin:0px;
+	padding:0px;
+	font-family:Helvetica, sans-serif;
+}
+
+.headline{
+	font-size:60px;
+	color:#25C27B;
+	font-weight:bold;
+	text-align:center;
+	padding:20px;
+}
+.nickiImage{
+	width:300px;
+	height:auto;
+	text-align:center;
+	margin: 10px auto;
+}
